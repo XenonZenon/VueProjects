@@ -1,2 +1,2 @@
 # VueProjects
-Collection of sample of web projects using Vue 
+Collection web projects using Vue 
